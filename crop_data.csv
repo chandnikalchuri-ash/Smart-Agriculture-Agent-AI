@@ -1,0 +1,6 @@
+Soil_Type,pH_Level,Nitrogen_Level,Weather_Condition,Recommended_Crop
+Alluvial,6.5,High,Monsoon,Rice
+Black,7.2,Medium,Dry,Cotton
+Red,6.0,Low,Moderate,Groundnut
+Loamy,6.8,High,Winter,Wheat
+Sandy,7.5,Low,Hot,Millets
