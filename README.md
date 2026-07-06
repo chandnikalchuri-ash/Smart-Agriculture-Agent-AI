@@ -17,3 +17,4 @@ Farmers in India often lack immediate, localized advice regarding crop selection
 * **Libraries:** `google-genai`, `python-dotenv`, `Pillow`, `datetime`
 
 **Live Demo Video**
+https://drive.google.com/file/d/1R4DCqwEdSC0R6kgaOYlkdzi8SPPtxDRs/view?usp=drive_link
